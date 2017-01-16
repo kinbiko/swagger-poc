@@ -2,4 +2,4 @@
 
 - Build project using maven
 - Run as a spring boot application
-- Navigate to `locahost:8080/swagger-ui.html`
+- Navigate to `localhost:8080/swagger-ui.html`
